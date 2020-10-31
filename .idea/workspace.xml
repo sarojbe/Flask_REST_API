@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="410420f0-055a-460f-8c3a-2fdeb442dd2f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Flask_API/.idea/Flask_API.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Flask_API/deserialization.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bank_django/.idea/bank_django.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cisc5640 2/.idea/cisc5640.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cisc5640/.idea/cisc5640.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flaskproj/.idea/flaskproj.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flaskproj/blogsar/.idea/blogsar.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flaskrest_api/.idea/prest_api.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../prest_api/.idea/prest_api.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../prest_api_ver1/.idea/prest_api.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../prest_api_ver2/.idea/prest_api.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../test/.idea/test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ui/.idea/ui.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../uitools/.idea/uitools.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Flask2020.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../xmlparse.py" beforeDir="false" afterPath="$PROJECT_DIR$/../xmlparse.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/sarojbe/Learning-Regression-Python" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jLlgEvFPxtx5D2oNhg9Em4NwJx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="foldersAlwaysOnTop" value="false" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.app (1)">
+    <configuration name="app (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Flask2020" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Flask2020" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="create_table" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Flask2020" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/create_table.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="testfr" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Flask2020" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testfr.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.app (1)" />
+        <item itemvalue="Python.app" />
+        <item itemvalue="Python.create_table" />
+        <item itemvalue="Python.testfr" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="410420f0-055a-460f-8c3a-2fdeb442dd2f" name="Default Changelist" comment="" />
+      <created>1603591361967</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603591361967</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="274" y="97" key="#Inspections" timestamp="1603763142802">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="274" y="97" key="#Inspections/0.23.1280.777@0.23.1280.777" timestamp="1603763142802" />
+    <state x="135" y="73" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603634319980">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="135" y="73" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.777@0.23.1280.777" timestamp="1603634319980" />
+    <state width="1259" height="199" key="GridCell.Tab.0.bottom" timestamp="1604113190710">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1259" height="199" key="GridCell.Tab.0.bottom/0.23.1280.777@0.23.1280.777" timestamp="1604113190710" />
+    <state width="1259" height="199" key="GridCell.Tab.0.bottom/1280.23.1920.1057/0.23.1280.777@0.23.1280.777" timestamp="1603898127427" />
+    <state width="1259" height="199" key="GridCell.Tab.0.center" timestamp="1604113190709">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1259" height="199" key="GridCell.Tab.0.center/0.23.1280.777@0.23.1280.777" timestamp="1604113190709" />
+    <state width="1259" height="199" key="GridCell.Tab.0.center/1280.23.1920.1057/0.23.1280.777@0.23.1280.777" timestamp="1603898127426" />
+    <state width="1259" height="199" key="GridCell.Tab.0.left" timestamp="1604113190708">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1259" height="199" key="GridCell.Tab.0.left/0.23.1280.777@0.23.1280.777" timestamp="1604113190708" />
+    <state width="1259" height="199" key="GridCell.Tab.0.left/1280.23.1920.1057/0.23.1280.777@0.23.1280.777" timestamp="1603898127425" />
+    <state width="1259" height="199" key="GridCell.Tab.0.right" timestamp="1604113190709">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state width="1259" height="199" key="GridCell.Tab.0.right/0.23.1280.777@0.23.1280.777" timestamp="1604113190709" />
+    <state width="1259" height="199" key="GridCell.Tab.0.right/1280.23.1920.1057/0.23.1280.777@0.23.1280.777" timestamp="1603898127427" />
+    <state x="180" y="50" key="SettingsEditor" timestamp="1603763163952">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="180" y="50" key="SettingsEditor/0.23.1280.777@0.23.1280.777" timestamp="1603763163952" />
+    <state x="0" y="23" width="586" height="777" key="find.popup" timestamp="1603841009863">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="0" y="23" width="586" height="777" key="find.popup/0.23.1280.777@0.23.1280.777" timestamp="1603841009863" />
+  </component>
+</project>
