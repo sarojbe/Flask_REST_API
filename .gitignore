@@ -1,1 +1,4 @@
 tester.txt
+test.txt
+code/__pycache__/*.pyc
+code/__pycache__/
