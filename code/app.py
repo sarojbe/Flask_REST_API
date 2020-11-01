@@ -16,7 +16,7 @@ app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///data.db'
 app.config['SQL_ALCHEMY_MODIFICATIONS'] = False
 app.config['PROPAGATE_EXCEPTIONS'] = True
 app.secret_key = 'saroj123' 
-app.config['JWT_SECRRET_KEY']= 'saroj456' #optional if we want both same of diff
+app.config['JWT_SECRET_KEY']= 'saroj456' #optional if we want both same of diff
 api = Api(app)
 
 
@@ -26,6 +26,11 @@ def create_table():
 
 jwt = JWTManager(app) # not a /auth endpoint
 
+@jwt.user_claims_loader
+def add_claims_to_jwt(identity):
+    if identity ==1:# will read from config or database rather , to some other system or  API
+        return {'is_admin':True}
+    return {'is_admin': False}
 
 class Home(Resource):
     @staticmethod
