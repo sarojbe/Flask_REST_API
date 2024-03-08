@@ -16,7 +16,7 @@ app = Flask(__name__)
 app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///data.db'
 app.config['SQL_ALCHEMY_MODIFICATIONS'] = False
 # app.config['PROPAGATE_EXCEPTIONS'] = True
-app.secret_key = 'saroj'
+app.secret_key = 'xxxxxxxx'
 api = Api(app)
 
 
@@ -31,7 +31,7 @@ jwt = JWT(app, authenticate, identity) # creates a /auth endpoint
 class Home(Resource):
     @staticmethod
     def get():
-        return "{'message': 'API Landing Page'}"
+        return "{'message': 'API Landing Page'}" # not necessary
 
 
 api.add_resource(Home,'/')
