@@ -16,7 +16,7 @@ app = Flask(__name__)
 app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///data.db'
 app.config['SQL_ALCHEMY_MODIFICATIONS'] = False
 # app.config['PROPAGATE_EXCEPTIONS'] = True
-app.secret_key = 'saroj'
+app.secret_key = 'enter your xx'
 api = Api(app)
 
 
